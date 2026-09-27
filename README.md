@@ -41,9 +41,13 @@ The application allows users to enter a prompt and generate meaningful text usin
 - No external API key required
 
 ---
-## live demo
+## Live demo
 
-## screenshot
+
+https://github.com/user-attachments/assets/f2622c6f-a019-417d-8364-797d47a19640
+
+
+## Screenshot
 <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/98f3630f-56c7-4c0b-92c8-340d28c7184b" />
 
 <img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/3e9bdd92-a51f-4bcc-947b-f6d57bda0981" />
